@@ -1,7 +1,4 @@
-// TEST GIT //
-
 Description of project 
-
 
 CLASS
 
@@ -66,7 +63,6 @@ registerBook()
 
 registerMovie()
 		Write int the file “productStock.txt” new fields of movie
-
 
 deleteProduct()
 		Delete from the file “productStock.txt” row of a idproduct field
